@@ -1,0 +1,35 @@
+	<h3>@) </h3>
+	<div>
+		<button onclick="document.getElementById('t_FOLDER_@').style.display='block'" class="button">Teoria @</button>
+		<button onclick="document.getElementById('s_FOLDER_@').style.display='block'" class="button">Soluzione @</button>
+		<div id="t_FOLDER_@" class="modal">
+				<div class="modal-content">
+					<span onclick="document.getElementById('t_FOLDER_@').style.display='none'" class="close">&times;</span>
+					<header>
+						<h4>Teoria @</h4>
+					</header>
+					<div class="container">
+						<p></p>
+						<img src="img\teo\FOLDER\t@.1.png" alt="" width="">
+					</div>
+					<footer>
+						<p></p>
+					</footer>
+				</div>
+		</div>
+		<div id="s_FOLDER_@" class="modal">
+			<div class="modal-content">
+				<span onclick="document.getElementById('s_FOLDER_@').style.display='none'" class="close">&times;</span>
+				<header>
+					<h4>Soluzione @</h4>
+				</header>
+				<div class="container">
+					<p></p>
+					<img src="img\sol\FOLDER\s@.1.png" alt="" width="">
+				</div>
+				<footer>
+					<p></p>
+				</footer>
+			</div>
+		</div>
+	</div>
