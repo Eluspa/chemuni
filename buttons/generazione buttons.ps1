@@ -1,10 +1,10 @@
-﻿$template = 'C:\Users\PC-UCNET\Desktop\organica\buttons\buttontemplate.txt'
-$newpath = 'C:\Users\PC-UCNET\Desktop\organica\buttons\buttons.txt'
+﻿$template = 'C:\Users\PC-UCNET\Documents\GitHub\chemuni\buttons\buttontemplate.txt'
+$newpath = 'C:\Users\PC-UCNET\Documents\GitHub\chemuni\buttons\buttons.txt'
 $contenuto = Get-Content -Path $template
 
-$folder = 'ox'
+$folder = 'red'
 
-$img = 'C:\Users\PC-UCNET\Desktop\organica\img\'
+$img = 'C:\Users\PC-UCNET\Documents\GitHub\chemuni\img\'
 $imgfolders = Get-ChildItem -Path $img
 
 Remove-Item $newpath

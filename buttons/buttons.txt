@@ -1,31 +1,31 @@
 	<h3>1) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_1').style.display='block'" class="button">Teoria 1</button>
-		<button onclick="document.getElementById('s_ox_1').style.display='block'" class="button">Soluzione 1</button>
-		<div id="t_ox_1" class="modal">
+		<button onclick="document.getElementById('t_red_1').style.display='block'" class="button">Teoria 1</button>
+		<button onclick="document.getElementById('s_red_1').style.display='block'" class="button">Soluzione 1</button>
+		<div id="t_red_1" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_1').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_1').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 1</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t1.1.png" alt="" width="">
+						<img src="img\teo\red\t1.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_1" class="modal">
+		<div id="s_red_1" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_1').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_1').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 1</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s1.1.png" alt="" width="">
+					<img src="img\sol\red\s1.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -35,32 +35,32 @@
 	</div>
 	<h3>2) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_2').style.display='block'" class="button">Teoria 2</button>
-		<button onclick="document.getElementById('s_ox_2').style.display='block'" class="button">Soluzione 2</button>
-		<div id="t_ox_2" class="modal">
+		<button onclick="document.getElementById('t_red_2').style.display='block'" class="button">Teoria 2</button>
+		<button onclick="document.getElementById('s_red_2').style.display='block'" class="button">Soluzione 2</button>
+		<div id="t_red_2" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_2').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_2').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 2</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t2.1.png" alt="" width="">
+						<img src="img\teo\red\t2.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_2" class="modal">
+		<div id="s_red_2" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_2').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_2').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 2</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s2.1.png" alt="" width="">
+					<img src="img\sol\red\s2.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -70,32 +70,32 @@
 	</div>
 	<h3>3) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_3').style.display='block'" class="button">Teoria 3</button>
-		<button onclick="document.getElementById('s_ox_3').style.display='block'" class="button">Soluzione 3</button>
-		<div id="t_ox_3" class="modal">
+		<button onclick="document.getElementById('t_red_3').style.display='block'" class="button">Teoria 3</button>
+		<button onclick="document.getElementById('s_red_3').style.display='block'" class="button">Soluzione 3</button>
+		<div id="t_red_3" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_3').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_3').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 3</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t3.1.png" alt="" width="">
+						<img src="img\teo\red\t3.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_3" class="modal">
+		<div id="s_red_3" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_3').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_3').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 3</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s3.1.png" alt="" width="">
+					<img src="img\sol\red\s3.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -105,32 +105,32 @@
 	</div>
 	<h3>4) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_4').style.display='block'" class="button">Teoria 4</button>
-		<button onclick="document.getElementById('s_ox_4').style.display='block'" class="button">Soluzione 4</button>
-		<div id="t_ox_4" class="modal">
+		<button onclick="document.getElementById('t_red_4').style.display='block'" class="button">Teoria 4</button>
+		<button onclick="document.getElementById('s_red_4').style.display='block'" class="button">Soluzione 4</button>
+		<div id="t_red_4" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_4').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_4').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 4</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t4.1.png" alt="" width="">
+						<img src="img\teo\red\t4.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_4" class="modal">
+		<div id="s_red_4" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_4').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_4').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 4</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s4.1.png" alt="" width="">
+					<img src="img\sol\red\s4.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -140,32 +140,32 @@
 	</div>
 	<h3>5) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_5').style.display='block'" class="button">Teoria 5</button>
-		<button onclick="document.getElementById('s_ox_5').style.display='block'" class="button">Soluzione 5</button>
-		<div id="t_ox_5" class="modal">
+		<button onclick="document.getElementById('t_red_5').style.display='block'" class="button">Teoria 5</button>
+		<button onclick="document.getElementById('s_red_5').style.display='block'" class="button">Soluzione 5</button>
+		<div id="t_red_5" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_5').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_5').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 5</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t5.1.png" alt="" width="">
+						<img src="img\teo\red\t5.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_5" class="modal">
+		<div id="s_red_5" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_5').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_5').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 5</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s5.1.png" alt="" width="">
+					<img src="img\sol\red\s5.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -175,32 +175,32 @@
 	</div>
 	<h3>6) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_6').style.display='block'" class="button">Teoria 6</button>
-		<button onclick="document.getElementById('s_ox_6').style.display='block'" class="button">Soluzione 6</button>
-		<div id="t_ox_6" class="modal">
+		<button onclick="document.getElementById('t_red_6').style.display='block'" class="button">Teoria 6</button>
+		<button onclick="document.getElementById('s_red_6').style.display='block'" class="button">Soluzione 6</button>
+		<div id="t_red_6" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_6').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_6').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 6</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t6.1.png" alt="" width="">
+						<img src="img\teo\red\t6.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_6" class="modal">
+		<div id="s_red_6" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_6').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_6').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 6</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s6.1.png" alt="" width="">
+					<img src="img\sol\red\s6.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -210,32 +210,32 @@
 	</div>
 	<h3>7) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_7').style.display='block'" class="button">Teoria 7</button>
-		<button onclick="document.getElementById('s_ox_7').style.display='block'" class="button">Soluzione 7</button>
-		<div id="t_ox_7" class="modal">
+		<button onclick="document.getElementById('t_red_7').style.display='block'" class="button">Teoria 7</button>
+		<button onclick="document.getElementById('s_red_7').style.display='block'" class="button">Soluzione 7</button>
+		<div id="t_red_7" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_7').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_7').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 7</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t7.1.png" alt="" width="">
+						<img src="img\teo\red\t7.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_7" class="modal">
+		<div id="s_red_7" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_7').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_7').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 7</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s7.1.png" alt="" width="">
+					<img src="img\sol\red\s7.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -245,32 +245,32 @@
 	</div>
 	<h3>8) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_8').style.display='block'" class="button">Teoria 8</button>
-		<button onclick="document.getElementById('s_ox_8').style.display='block'" class="button">Soluzione 8</button>
-		<div id="t_ox_8" class="modal">
+		<button onclick="document.getElementById('t_red_8').style.display='block'" class="button">Teoria 8</button>
+		<button onclick="document.getElementById('s_red_8').style.display='block'" class="button">Soluzione 8</button>
+		<div id="t_red_8" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_8').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_8').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 8</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t8.1.png" alt="" width="">
+						<img src="img\teo\red\t8.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_8" class="modal">
+		<div id="s_red_8" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_8').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_8').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 8</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s8.1.png" alt="" width="">
+					<img src="img\sol\red\s8.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -280,32 +280,32 @@
 	</div>
 	<h3>9) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_9').style.display='block'" class="button">Teoria 9</button>
-		<button onclick="document.getElementById('s_ox_9').style.display='block'" class="button">Soluzione 9</button>
-		<div id="t_ox_9" class="modal">
+		<button onclick="document.getElementById('t_red_9').style.display='block'" class="button">Teoria 9</button>
+		<button onclick="document.getElementById('s_red_9').style.display='block'" class="button">Soluzione 9</button>
+		<div id="t_red_9" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_9').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_9').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 9</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t9.1.png" alt="" width="">
+						<img src="img\teo\red\t9.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_9" class="modal">
+		<div id="s_red_9" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_9').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_9').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 9</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s9.1.png" alt="" width="">
+					<img src="img\sol\red\s9.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -315,32 +315,32 @@
 	</div>
 	<h3>10) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_10').style.display='block'" class="button">Teoria 10</button>
-		<button onclick="document.getElementById('s_ox_10').style.display='block'" class="button">Soluzione 10</button>
-		<div id="t_ox_10" class="modal">
+		<button onclick="document.getElementById('t_red_10').style.display='block'" class="button">Teoria 10</button>
+		<button onclick="document.getElementById('s_red_10').style.display='block'" class="button">Soluzione 10</button>
+		<div id="t_red_10" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_10').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_10').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 10</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t10.1.png" alt="" width="">
+						<img src="img\teo\red\t10.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_10" class="modal">
+		<div id="s_red_10" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_10').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_10').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 10</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s10.1.png" alt="" width="">
+					<img src="img\sol\red\s10.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -350,32 +350,32 @@
 	</div>
 	<h3>11) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_11').style.display='block'" class="button">Teoria 11</button>
-		<button onclick="document.getElementById('s_ox_11').style.display='block'" class="button">Soluzione 11</button>
-		<div id="t_ox_11" class="modal">
+		<button onclick="document.getElementById('t_red_11').style.display='block'" class="button">Teoria 11</button>
+		<button onclick="document.getElementById('s_red_11').style.display='block'" class="button">Soluzione 11</button>
+		<div id="t_red_11" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_11').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_11').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 11</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t11.1.png" alt="" width="">
+						<img src="img\teo\red\t11.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_11" class="modal">
+		<div id="s_red_11" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_11').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_11').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 11</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s11.1.png" alt="" width="">
+					<img src="img\sol\red\s11.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -385,32 +385,32 @@
 	</div>
 	<h3>12) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_12').style.display='block'" class="button">Teoria 12</button>
-		<button onclick="document.getElementById('s_ox_12').style.display='block'" class="button">Soluzione 12</button>
-		<div id="t_ox_12" class="modal">
+		<button onclick="document.getElementById('t_red_12').style.display='block'" class="button">Teoria 12</button>
+		<button onclick="document.getElementById('s_red_12').style.display='block'" class="button">Soluzione 12</button>
+		<div id="t_red_12" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_12').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_12').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 12</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t12.1.png" alt="" width="">
+						<img src="img\teo\red\t12.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_12" class="modal">
+		<div id="s_red_12" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_12').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_12').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 12</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s12.1.png" alt="" width="">
+					<img src="img\sol\red\s12.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -420,32 +420,32 @@
 	</div>
 	<h3>13) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_13').style.display='block'" class="button">Teoria 13</button>
-		<button onclick="document.getElementById('s_ox_13').style.display='block'" class="button">Soluzione 13</button>
-		<div id="t_ox_13" class="modal">
+		<button onclick="document.getElementById('t_red_13').style.display='block'" class="button">Teoria 13</button>
+		<button onclick="document.getElementById('s_red_13').style.display='block'" class="button">Soluzione 13</button>
+		<div id="t_red_13" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_13').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_13').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 13</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t13.1.png" alt="" width="">
+						<img src="img\teo\red\t13.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_13" class="modal">
+		<div id="s_red_13" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_13').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_13').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 13</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s13.1.png" alt="" width="">
+					<img src="img\sol\red\s13.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -455,32 +455,32 @@
 	</div>
 	<h3>14) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_14').style.display='block'" class="button">Teoria 14</button>
-		<button onclick="document.getElementById('s_ox_14').style.display='block'" class="button">Soluzione 14</button>
-		<div id="t_ox_14" class="modal">
+		<button onclick="document.getElementById('t_red_14').style.display='block'" class="button">Teoria 14</button>
+		<button onclick="document.getElementById('s_red_14').style.display='block'" class="button">Soluzione 14</button>
+		<div id="t_red_14" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_14').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_14').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 14</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t14.1.png" alt="" width="">
+						<img src="img\teo\red\t14.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_14" class="modal">
+		<div id="s_red_14" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_14').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_14').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 14</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s14.1.png" alt="" width="">
+					<img src="img\sol\red\s14.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -490,32 +490,32 @@
 	</div>
 	<h3>15) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_15').style.display='block'" class="button">Teoria 15</button>
-		<button onclick="document.getElementById('s_ox_15').style.display='block'" class="button">Soluzione 15</button>
-		<div id="t_ox_15" class="modal">
+		<button onclick="document.getElementById('t_red_15').style.display='block'" class="button">Teoria 15</button>
+		<button onclick="document.getElementById('s_red_15').style.display='block'" class="button">Soluzione 15</button>
+		<div id="t_red_15" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_15').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_15').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 15</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t15.1.png" alt="" width="">
+						<img src="img\teo\red\t15.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_15" class="modal">
+		<div id="s_red_15" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_15').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_15').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 15</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s15.1.png" alt="" width="">
+					<img src="img\sol\red\s15.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -525,32 +525,32 @@
 	</div>
 	<h3>16) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_16').style.display='block'" class="button">Teoria 16</button>
-		<button onclick="document.getElementById('s_ox_16').style.display='block'" class="button">Soluzione 16</button>
-		<div id="t_ox_16" class="modal">
+		<button onclick="document.getElementById('t_red_16').style.display='block'" class="button">Teoria 16</button>
+		<button onclick="document.getElementById('s_red_16').style.display='block'" class="button">Soluzione 16</button>
+		<div id="t_red_16" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_16').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_16').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 16</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t16.1.png" alt="" width="">
+						<img src="img\teo\red\t16.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_16" class="modal">
+		<div id="s_red_16" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_16').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_16').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 16</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s16.1.png" alt="" width="">
+					<img src="img\sol\red\s16.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -560,32 +560,32 @@
 	</div>
 	<h3>17) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_17').style.display='block'" class="button">Teoria 17</button>
-		<button onclick="document.getElementById('s_ox_17').style.display='block'" class="button">Soluzione 17</button>
-		<div id="t_ox_17" class="modal">
+		<button onclick="document.getElementById('t_red_17').style.display='block'" class="button">Teoria 17</button>
+		<button onclick="document.getElementById('s_red_17').style.display='block'" class="button">Soluzione 17</button>
+		<div id="t_red_17" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_17').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_17').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 17</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t17.1.png" alt="" width="">
+						<img src="img\teo\red\t17.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_17" class="modal">
+		<div id="s_red_17" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_17').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_17').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 17</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s17.1.png" alt="" width="">
+					<img src="img\sol\red\s17.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -595,32 +595,32 @@
 	</div>
 	<h3>18) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_18').style.display='block'" class="button">Teoria 18</button>
-		<button onclick="document.getElementById('s_ox_18').style.display='block'" class="button">Soluzione 18</button>
-		<div id="t_ox_18" class="modal">
+		<button onclick="document.getElementById('t_red_18').style.display='block'" class="button">Teoria 18</button>
+		<button onclick="document.getElementById('s_red_18').style.display='block'" class="button">Soluzione 18</button>
+		<div id="t_red_18" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_18').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_18').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 18</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t18.1.png" alt="" width="">
+						<img src="img\teo\red\t18.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_18" class="modal">
+		<div id="s_red_18" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_18').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_18').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 18</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s18.1.png" alt="" width="">
+					<img src="img\sol\red\s18.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -630,32 +630,32 @@
 	</div>
 	<h3>19) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_19').style.display='block'" class="button">Teoria 19</button>
-		<button onclick="document.getElementById('s_ox_19').style.display='block'" class="button">Soluzione 19</button>
-		<div id="t_ox_19" class="modal">
+		<button onclick="document.getElementById('t_red_19').style.display='block'" class="button">Teoria 19</button>
+		<button onclick="document.getElementById('s_red_19').style.display='block'" class="button">Soluzione 19</button>
+		<div id="t_red_19" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_19').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_19').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 19</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t19.1.png" alt="" width="">
+						<img src="img\teo\red\t19.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_19" class="modal">
+		<div id="s_red_19" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_19').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_19').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 19</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s19.1.png" alt="" width="">
+					<img src="img\sol\red\s19.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -665,32 +665,32 @@
 	</div>
 	<h3>20) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_20').style.display='block'" class="button">Teoria 20</button>
-		<button onclick="document.getElementById('s_ox_20').style.display='block'" class="button">Soluzione 20</button>
-		<div id="t_ox_20" class="modal">
+		<button onclick="document.getElementById('t_red_20').style.display='block'" class="button">Teoria 20</button>
+		<button onclick="document.getElementById('s_red_20').style.display='block'" class="button">Soluzione 20</button>
+		<div id="t_red_20" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_20').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_20').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 20</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t20.1.png" alt="" width="">
+						<img src="img\teo\red\t20.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_20" class="modal">
+		<div id="s_red_20" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_20').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_20').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 20</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s20.1.png" alt="" width="">
+					<img src="img\sol\red\s20.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -700,32 +700,32 @@
 	</div>
 	<h3>21) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_21').style.display='block'" class="button">Teoria 21</button>
-		<button onclick="document.getElementById('s_ox_21').style.display='block'" class="button">Soluzione 21</button>
-		<div id="t_ox_21" class="modal">
+		<button onclick="document.getElementById('t_red_21').style.display='block'" class="button">Teoria 21</button>
+		<button onclick="document.getElementById('s_red_21').style.display='block'" class="button">Soluzione 21</button>
+		<div id="t_red_21" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_21').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_21').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 21</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t21.1.png" alt="" width="">
+						<img src="img\teo\red\t21.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_21" class="modal">
+		<div id="s_red_21" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_21').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_21').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 21</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s21.1.png" alt="" width="">
+					<img src="img\sol\red\s21.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -735,32 +735,32 @@
 	</div>
 	<h3>22) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_22').style.display='block'" class="button">Teoria 22</button>
-		<button onclick="document.getElementById('s_ox_22').style.display='block'" class="button">Soluzione 22</button>
-		<div id="t_ox_22" class="modal">
+		<button onclick="document.getElementById('t_red_22').style.display='block'" class="button">Teoria 22</button>
+		<button onclick="document.getElementById('s_red_22').style.display='block'" class="button">Soluzione 22</button>
+		<div id="t_red_22" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_22').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_22').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 22</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t22.1.png" alt="" width="">
+						<img src="img\teo\red\t22.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_22" class="modal">
+		<div id="s_red_22" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_22').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_22').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 22</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s22.1.png" alt="" width="">
+					<img src="img\sol\red\s22.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -770,32 +770,32 @@
 	</div>
 	<h3>23) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_23').style.display='block'" class="button">Teoria 23</button>
-		<button onclick="document.getElementById('s_ox_23').style.display='block'" class="button">Soluzione 23</button>
-		<div id="t_ox_23" class="modal">
+		<button onclick="document.getElementById('t_red_23').style.display='block'" class="button">Teoria 23</button>
+		<button onclick="document.getElementById('s_red_23').style.display='block'" class="button">Soluzione 23</button>
+		<div id="t_red_23" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_23').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_23').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 23</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t23.1.png" alt="" width="">
+						<img src="img\teo\red\t23.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_23" class="modal">
+		<div id="s_red_23" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_23').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_23').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 23</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s23.1.png" alt="" width="">
+					<img src="img\sol\red\s23.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -805,32 +805,32 @@
 	</div>
 	<h3>24) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_24').style.display='block'" class="button">Teoria 24</button>
-		<button onclick="document.getElementById('s_ox_24').style.display='block'" class="button">Soluzione 24</button>
-		<div id="t_ox_24" class="modal">
+		<button onclick="document.getElementById('t_red_24').style.display='block'" class="button">Teoria 24</button>
+		<button onclick="document.getElementById('s_red_24').style.display='block'" class="button">Soluzione 24</button>
+		<div id="t_red_24" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_24').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_24').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 24</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t24.1.png" alt="" width="">
+						<img src="img\teo\red\t24.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_24" class="modal">
+		<div id="s_red_24" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_24').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_24').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 24</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s24.1.png" alt="" width="">
+					<img src="img\sol\red\s24.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -840,32 +840,32 @@
 	</div>
 	<h3>25) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_25').style.display='block'" class="button">Teoria 25</button>
-		<button onclick="document.getElementById('s_ox_25').style.display='block'" class="button">Soluzione 25</button>
-		<div id="t_ox_25" class="modal">
+		<button onclick="document.getElementById('t_red_25').style.display='block'" class="button">Teoria 25</button>
+		<button onclick="document.getElementById('s_red_25').style.display='block'" class="button">Soluzione 25</button>
+		<div id="t_red_25" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_25').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_25').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 25</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t25.1.png" alt="" width="">
+						<img src="img\teo\red\t25.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_25" class="modal">
+		<div id="s_red_25" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_25').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_25').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 25</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s25.1.png" alt="" width="">
+					<img src="img\sol\red\s25.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -875,32 +875,32 @@
 	</div>
 	<h3>26) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_26').style.display='block'" class="button">Teoria 26</button>
-		<button onclick="document.getElementById('s_ox_26').style.display='block'" class="button">Soluzione 26</button>
-		<div id="t_ox_26" class="modal">
+		<button onclick="document.getElementById('t_red_26').style.display='block'" class="button">Teoria 26</button>
+		<button onclick="document.getElementById('s_red_26').style.display='block'" class="button">Soluzione 26</button>
+		<div id="t_red_26" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_26').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_26').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 26</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t26.1.png" alt="" width="">
+						<img src="img\teo\red\t26.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_26" class="modal">
+		<div id="s_red_26" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_26').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_26').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 26</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s26.1.png" alt="" width="">
+					<img src="img\sol\red\s26.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -910,32 +910,32 @@
 	</div>
 	<h3>27) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_27').style.display='block'" class="button">Teoria 27</button>
-		<button onclick="document.getElementById('s_ox_27').style.display='block'" class="button">Soluzione 27</button>
-		<div id="t_ox_27" class="modal">
+		<button onclick="document.getElementById('t_red_27').style.display='block'" class="button">Teoria 27</button>
+		<button onclick="document.getElementById('s_red_27').style.display='block'" class="button">Soluzione 27</button>
+		<div id="t_red_27" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_27').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_27').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 27</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t27.1.png" alt="" width="">
+						<img src="img\teo\red\t27.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_27" class="modal">
+		<div id="s_red_27" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_27').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_27').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 27</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s27.1.png" alt="" width="">
+					<img src="img\sol\red\s27.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -945,32 +945,32 @@
 	</div>
 	<h3>28) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_28').style.display='block'" class="button">Teoria 28</button>
-		<button onclick="document.getElementById('s_ox_28').style.display='block'" class="button">Soluzione 28</button>
-		<div id="t_ox_28" class="modal">
+		<button onclick="document.getElementById('t_red_28').style.display='block'" class="button">Teoria 28</button>
+		<button onclick="document.getElementById('s_red_28').style.display='block'" class="button">Soluzione 28</button>
+		<div id="t_red_28" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_28').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_28').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 28</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t28.1.png" alt="" width="">
+						<img src="img\teo\red\t28.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_28" class="modal">
+		<div id="s_red_28" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_28').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_28').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 28</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s28.1.png" alt="" width="">
+					<img src="img\sol\red\s28.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -980,32 +980,32 @@
 	</div>
 	<h3>29) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_29').style.display='block'" class="button">Teoria 29</button>
-		<button onclick="document.getElementById('s_ox_29').style.display='block'" class="button">Soluzione 29</button>
-		<div id="t_ox_29" class="modal">
+		<button onclick="document.getElementById('t_red_29').style.display='block'" class="button">Teoria 29</button>
+		<button onclick="document.getElementById('s_red_29').style.display='block'" class="button">Soluzione 29</button>
+		<div id="t_red_29" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_29').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_29').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 29</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t29.1.png" alt="" width="">
+						<img src="img\teo\red\t29.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_29" class="modal">
+		<div id="s_red_29" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_29').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_29').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 29</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s29.1.png" alt="" width="">
+					<img src="img\sol\red\s29.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
@@ -1015,32 +1015,32 @@
 	</div>
 	<h3>30) </h3>
 	<div>
-		<button onclick="document.getElementById('t_ox_30').style.display='block'" class="button">Teoria 30</button>
-		<button onclick="document.getElementById('s_ox_30').style.display='block'" class="button">Soluzione 30</button>
-		<div id="t_ox_30" class="modal">
+		<button onclick="document.getElementById('t_red_30').style.display='block'" class="button">Teoria 30</button>
+		<button onclick="document.getElementById('s_red_30').style.display='block'" class="button">Soluzione 30</button>
+		<div id="t_red_30" class="modal">
 				<div class="modal-content">
-					<span onclick="document.getElementById('t_ox_30').style.display='none'" class="close">&times;</span>
+					<span onclick="document.getElementById('t_red_30').style.display='none'" class="close">&times;</span>
 					<header>
 						<h4>Teoria 30</h4>
 					</header>
 					<div class="container">
 						<p></p>
-						<img src="img\teo\ox\t30.1.png" alt="" width="">
+						<img src="img\teo\red\t30.1.png" alt="" width="">
 					</div>
 					<footer>
 						<p></p>
 					</footer>
 				</div>
 		</div>
-		<div id="s_ox_30" class="modal">
+		<div id="s_red_30" class="modal">
 			<div class="modal-content">
-				<span onclick="document.getElementById('s_ox_30').style.display='none'" class="close">&times;</span>
+				<span onclick="document.getElementById('s_red_30').style.display='none'" class="close">&times;</span>
 				<header>
 					<h4>Soluzione 30</h4>
 				</header>
 				<div class="container">
 					<p></p>
-					<img src="img\sol\ox\s30.1.png" alt="" width="">
+					<img src="img\sol\red\s30.1.png" alt="" width="">
 				</div>
 				<footer>
 					<p></p>
