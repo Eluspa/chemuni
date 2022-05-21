@@ -1515,7 +1515,7 @@
 			<div>
 				<button onclick="document.getElementById('t_ox_22bis').style.display='block'" class="button">Teoria 22bis</button>
 				<button onclick="document.getElementById('s_ox_22bis').style.display='block'" class="button">Soluzione 22bis</button>
-				<div id="t_ox_22bis" class="modal">
+					<div id="t_ox_22bis" class="modal">
 						<div class="modal-content">
 							<span onclick="document.getElementById('t_ox_22bis').style.display='none'" class="close">&times;</span>
 							<header>
@@ -1541,22 +1541,22 @@
 								<p></p>
 							</footer>
 						</div>
-				</div>
-				<div id="s_ox_22bis" class="modal">
-					<div class="modal-content">
-						<span onclick="document.getElementById('s_ox_22bis').style.display='none'" class="close">&times;</span>
-						<header>
-							<h4>Soluzione 22bis</h4>
-						</header>
-						<div class="container">
-							<p></p>
-							<img src="img\sol\ox\s22bis.1.png" alt="">
-						</div>
-						<footer>
-							<p></p>
-						</footer>
 					</div>
-				</div>
+					<div id="s_ox_22bis" class="modal">
+						<div class="modal-content">
+							<span onclick="document.getElementById('s_ox_22bis').style.display='none'" class="close">&times;</span>
+							<header>
+								<h4>Soluzione 22bis</h4>
+							</header>
+							<div class="container">
+								<p></p>
+								<img src="img\sol\ox\s22bis.1.png" alt="">
+							</div>
+							<footer>
+								<p></p>
+							</footer>
+						</div>
+					</div>
 			</div>
 
 			<h3>23) Riportare il prodotto della seguente reazione.</h3>
@@ -2263,7 +2263,10 @@
 								<h4>Teoria 9</h4>
 							</header>
 							<div class="container">
-								<p></p>
+								<p>
+									L'ossazaborolidina è un reagente usato per ridurre un chetone ad alcol in modo enantioselettivo. <br>
+									L'importanza e l'uso della ossazaborolidina sono descritti meglio nella <b>Teoria 22bis</b> del paragrafo <i>"Reazioni di ossidazione"</i>.
+								</p>
 								<img src="img\teo\red\t9.1.png" alt="" width="">
 							</div>
 							<footer>
@@ -2278,7 +2281,9 @@
 							<h4>Soluzione 9</h4>
 						</header>
 						<div class="container">
-							<p></p>
+							<p>
+								Il chetone subisce dunque riduzione ad alcol fornendo il seguente prodotto:
+							</p>
 							<img src="img\sol\red\s9.1.png" alt="" width="">
 						</div>
 						<footer>
@@ -2287,7 +2292,10 @@
 					</div>
 				</div>
 			</div>
-			<h3>10) </h3>
+			<h3>10) Partendo dal substrato dato, proporre un cammino di sintesi per arrivare al prodotto.
+				<br><br>
+				<img src="img\ese\red\e10.1.png" alt="" width="">
+			</h3>
 			<div>
 				<button onclick="document.getElementById('t_red_10').style.display='block'" class="button">Teoria 10</button>
 				<button onclick="document.getElementById('s_red_10').style.display='block'" class="button">Soluzione 10</button>
@@ -2298,8 +2306,26 @@
 								<h4>Teoria 10</h4>
 							</header>
 							<div class="container">
-								<p></p>
-								<img src="img\teo\red\t10.1.png" alt="" width="">
+								<p>
+									<ol>
+										<li>Riduzione con LiAlH<sub>4</sub></li>
+										<p>
+											Il LiAlH<sub>4</sub> è il più potente donatore di H<sup>-</sup> e riesce a ridurre esteri, acidi, nitrile, ammidi, aldeidi e chetoni. Usato in solventi anidridi (tipo etere o THF), è fortemente basico e quindi reagisce molto velocemente con solventi protici. Qui sotto il meccanismo con cui agisce:
+										</p>
+										<img src="img\teo\red\t10.1.png" alt="" width="">
+										<li>Condensazione intramolecolare di Dieckmann</li>
+										<p>
+											La ciclizzazone di Dieckmann è una condensazione di Claisen intramolecolare e può formare anelli a 5 o 6 termini. Con una base forte si rimuove un idrogeno formando un carbanione che dà attacco nucleofilo al carbonile: nel caso di un estere, si formerà un chetone, nel caso di composto carbonilico, si formerà un alcol.
+										</p>
+										<img src="img\teo\red\t10.2.png" alt="" width="">
+										<li>Ossidazione con DMP</li>
+										<p>
+											Il DMP è il reagente di Dess-Martin che permette di ossidare un alcol a chetone. Per maggiori informazioni, riferirsi alla <b>Teoria 2</b> della sezione <i>"Reazioni di ossidazione"</i>.
+										</p>
+										<img src="img\teo\red\t10.3.png" alt="" width="">
+										<li></li>
+									</ol>
+								</p>
 							</div>
 							<footer>
 								<p></p>
@@ -2533,6 +2559,7 @@
 
 		<link href="style.css" rel="stylesheet" type="text/css">
 		<script src="app.js"></script>
+		
 
 	</body>
 
