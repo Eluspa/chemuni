@@ -1,10 +1,10 @@
-﻿$template = 'C:\Users\PC-UCNET\Documents\GitHub\chemuni\buttons\buttontemplate.txt'
-$newpath = 'C:\Users\PC-UCNET\Documents\GitHub\chemuni\buttons\buttons.txt'
+﻿$template = 'C:\Users\Notebook\Documents\GitHub\chemuni\buttons\buttontemplate.txt'
+$newpath = 'C:\Users\Notebook\Documents\GitHub\chemuni\buttons\buttons.txt'
 $contenuto = Get-Content -Path $template
 
-$folder = 'red'
+$folder = 'g_p'
 
-$img = 'C:\Users\PC-UCNET\Documents\GitHub\chemuni\img\'
+$img = 'C:\Users\Notebook\Documents\GitHub\chemuni\img\'
 $imgfolders = Get-ChildItem -Path $img
 
 Remove-Item $newpath
